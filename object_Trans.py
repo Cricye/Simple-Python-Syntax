@@ -1,0 +1,5 @@
+print(int(3.14))
+print(type(int(3.14)))
+print(type("3.14"))
+print(float('3.14'))
+print(type(float('3.14')))

@@ -1,0 +1,6 @@
+print(type('https://github.com/Cricye'))
+print(type(2))
+print(type(3.14))
+print(type(True))
+print(id(3))
+print(id(3.14))
